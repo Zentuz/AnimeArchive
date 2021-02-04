@@ -1,0 +1,117 @@
+body {
+
+  background-color: #22313a;
+
+
+}
+.Panel1 {
+position: relative;
+display: block;
+margin-top: -62rem;
+text-align: center;
+background-color: #2B3942;
+width: 50rem;
+height: 4rem;
+margin-right: 54.6rem;
+margin-left: 54.6rem;
+}
+
+.Searchbar {
+position: relative;
+border: 0.1rem;
+background-color: #2B3942;
+border-color: #3f5461;
+width: 47rem;
+height: 1rem;
+margin-top: 1.2rem;
+margin-bottom: 1rem;
+border-top-style: hidden;
+border-right-style: hidden;
+border-left-style: hidden;
+border-bottom-style: solid;
+outline: none;
+color: #677d8a;
+font-size: 1rem;
+padding: 0.3rem;
+}
+
+.Searchbar:active, .Searchbar:focus {
+
+  position: relative;
+  border: 0.1rem;
+  background-color: #2B3942;
+  border-color: white;
+  width: 47rem;
+  height: 1rem;
+  margin-top: 1.2rem;
+  margin-bottom: 1rem;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: solid;
+  outline: none;
+  color: #677d8a;
+  font-size: 1rem;
+  padding: 0.3rem;
+
+
+}
+
+::placeholder{
+
+color: #677d8a;
+
+}
+
+.RenderList {
+
+position: relative;
+color: white;
+margin-top: 30rem;
+width: 50rem;
+height: 45rem;
+margin-right: 49.7rem;
+margin-left: 49.7rem;
+margin-bottom: 13rem;
+
+}
+.Rendered {
+
+color: white;
+
+
+}
+
+.lirender {
+
+padding: 1rem;
+width: 47.8rem;
+border-bottom-style: solid;
+border: 0.121rem solid;
+border-color: #3f5461;
+border-top: none;
+border-right: none;
+border-left: none;
+
+}
+
+ul {
+
+list-style-type: none;
+
+
+}
+
+.Linktext {
+
+text-decoration: none;
+color: white;
+
+}
+.logo {
+
+width: 15rem;
+height: 15rem;
+
+
+}
